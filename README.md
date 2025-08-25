@@ -27,3 +27,16 @@ it takes one input and checks usin the if else statements
 four.py 
 this program is to Task 2: Sum of Integers from 1 to 50 Using a Loop
 it uses for loop to print the sum of nymbers from 1 to 50
+
+
+
+
+five.py
+this program is to Task 1: Calculate Factorial Using a Function 
+it uses loop or recurssive to print the factorial of the numbers
+
+
+
+six.py
+this program is to Task 2: Using the Math Module for Calculations
+it uses the math module to perform to certain tasks 
